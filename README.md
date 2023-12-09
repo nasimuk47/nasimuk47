@@ -1,4 +1,4 @@
-### cover photo section
+![Your Cover Photo Alt Text](https://github.com/nasimuk47/nasimuk47/blob/main/cover%20edit.png?raw=true)
 
 ## 🙋‍♂️About me
 
@@ -8,7 +8,12 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nasimuk47&theme=monokai)
 
-## 📫 Reach me out
+## 📊Summary Of My Profile
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={nasimuk47}&exclude={exclude})
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={nasimuk47}&exclude={exclude})
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={nasimuk47}&exclude={exclude})
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={nasimuk47}&exclude={exclude})
 
 ## 💻 Technologies that I know
 
