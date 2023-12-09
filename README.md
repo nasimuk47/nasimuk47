@@ -11,9 +11,6 @@
 ## 📊Summary Of My Profile
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={nasimuk47}&exclude={exclude})
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={nasimuk47}&exclude={exclude})
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={nasimuk47}&exclude={exclude})
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={nasimuk47}&exclude={exclude})
 
 ## 💻 Technologies that I know
 
