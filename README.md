@@ -6,7 +6,7 @@
 
 ## 📈 Current Stats
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={nasimuk47}&theme={monokai}
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nasimuk47&theme=monokai)
 
 ## 📫 Reach me out
 
@@ -20,4 +20,5 @@ http://github-profile-summary-cards.vercel.app/api/cards/profile-details?usernam
 
 I'm currently expanding my knowledge and expertice in the following area
 
--   Next js :Exploring the world of server -side rendaring and react framework
+-   ### Next js :
+    Exploring the world of server -side rendaring and react framework
