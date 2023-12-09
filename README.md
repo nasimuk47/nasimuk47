@@ -26,8 +26,6 @@
 
 ## 📫 Currently Learning
 
-I'm currently expanding my knowledge and expertice in the following area
-
 -   ### Next js :
 
     Exploring the world of server -side rendaring and react framework
