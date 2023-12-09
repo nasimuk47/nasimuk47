@@ -11,6 +11,9 @@
 ## 📊Summary Of My Profile
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nasimuk47&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nasimuk47&theme=monokai&exclude=)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nasimuk47&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nasimuk47&theme=monokai&utcOffset=5)
 
 ## 💻 Technologies that I know
 
