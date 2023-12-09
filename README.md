@@ -6,7 +6,9 @@
 
 ## 📈 Current Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nasimuk47&theme=monokai)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nasimuk47&theme=dark" width="800" alt="GitHub Streak">
+</p>
 
 ## 📊Summary Of My Profile
 
@@ -17,9 +19,17 @@
 
 ## 💻 Technologies that I know
 
+<div align="center">
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,materialui)](https://skillicons.dev)
 
+</div>
+
+<div align="center">
+
 [![My Skills](https://skillicons.dev/icons?i=mongodb,express,nodejs,nextjs,firebase,figma&theme=light)](https://skillicons.dev)
+
+</div>
 
 ## 📫 Currently Learning
 
