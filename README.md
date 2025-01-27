@@ -1,4 +1,4 @@
-![Your Cover Photo Alt Text](https://github.com/nasimuk47/nasimuk47/blob/main/cover%20edit.png?raw=true)
+
 
 ## 🙋‍♂️About me
 
